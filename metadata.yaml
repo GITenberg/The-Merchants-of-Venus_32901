@@ -1,0 +1,36 @@
+_repo: The-Merchants-of-Venus_32901
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: archival
+  image_path: 32901-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phelps, A. H.
+    gutenberg_agent_id: '36099'
+    url: http://www.gutenberg.org/2009/agents/36099
+description: ''
+gutenberg_issued: '2010-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Space colonies -- Fiction'
+- !lcc 'PS'
+title: The Merchants of Venus
+url: http://www.gutenberg.org/ebooks/32901
