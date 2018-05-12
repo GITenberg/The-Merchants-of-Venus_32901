@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '36099'
     url: http://www.gutenberg.org/2009/agents/36099
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32901#The-Merchants-of-Venus
 gutenberg_issued: '2010-06-19'
 gutenberg_type: Text
 identifiers:
